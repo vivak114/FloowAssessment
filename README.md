@@ -9,7 +9,7 @@
   - TC4_VerifyJourney: To verify whether jounreys are listed as expected by user(as of now verified no journeys)
 
 * Below are test scenarios suggesting based on the funcitonality of cap which can be added in future
-  - TC5: Verify whether score value of particular attribute alone can be verified
+  - TC5: Verify whether score value of particular attribute alone can be verified(Assuming stubbing can be done for values)
   - TC6: Verify whether single jounrey is added and verify the same
   - TC7: verify no of jounreys added and details of each journey
   - TC8: Verify whether valid contact info is displayed in contact us page and upon click its asking user to select email app
