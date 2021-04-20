@@ -18,6 +18,6 @@
   - TC11: Verify whether each optimizations are configurable based on device
 
 * How to run the suite:
-  - Download the folder fomr link: 
+  - Download the project from link: 
   https://github.com/vivak114/FloowAssessment/tree/master
 
